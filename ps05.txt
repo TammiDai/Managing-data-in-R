@@ -1,0 +1,25 @@
+name,email,ps1,ps2
+Twilight Sparkle,twilight.sparkle@ponyville.edu,H,H
+Rainbow Dash,rainbow.dash@ponyville.edu,B,D
+Pinkie Pie,pinkie.pie@ponyville.edu,G,E
+Rarity,rarity@ponyville.edu,F,G
+Applejack,applejack@ponyville.edu,E,B
+Fluttershy,fluttershy@ponyville.edu,E,C
+Spike,spike@ponyville.edu,G,B
+Princess Celestia,princess.celestia@ponyville.edu,F,D
+Princess Luna,princess.luna@ponyville.edu,G,C
+Apple Bloom,apple.bloom@ponyville.edu,D,E
+Scootaloo,scootaloo@ponyville.edu,C,E
+Sweetie Belle,sweetie.belle@ponyville.edu,H,H
+Discord,discord@ponyville.edu,F,C
+Princess Cadance,princess.cadance@ponyville.edu,A,A
+Shining Armor,shining.armor@ponyville.edu,A,H
+Starlight Glimmer,starlight.glimmer@ponyville.edu,E,F
+Big McIntosh,big.mcintosh@ponyville.edu,H,A
+Granny Smith,granny.smith@ponyville.edu,A,A
+Mayor Mare,mayor.mare@ponyville.edu,C,F
+Cheerilee,cheerilee@ponyville.edu,C,F
+Cranky Doodle,cranky.doodle@ponyville.edu,D,D
+Nightmare Moon,nightmare.moon@ponyville.edu,B,B
+Daring Do,daring.do@ponyville.edu,B,G
+Zecora,zecora@ponyville.edu,D,G
